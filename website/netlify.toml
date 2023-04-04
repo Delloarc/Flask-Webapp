@@ -1,0 +1,7 @@
+[build]
+  command = "python main.py"
+  publish = "website"
+
+[dev]
+  command = "python main.py"
+  publish = "website"
